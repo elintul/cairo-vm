@@ -714,6 +714,7 @@ dependencies = [
  "sha2",
  "sha3",
  "starknet-crypto",
+ "starknet-curve",
  "starknet-types-core",
  "thiserror-no-std",
  "wasm-bindgen-test",
